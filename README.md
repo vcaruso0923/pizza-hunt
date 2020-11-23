@@ -12,6 +12,8 @@ An application that allows users to save their favorite pizzas and view other us
 * [Tests](#tests)
 * [Questions](#questions)
 
+![pizzahunt](https://user-images.githubusercontent.com/62676730/100020403-a6b19e00-2d94-11eb-8c35-ebd54533f724.PNG)
+
 ## Installation
 
 Clone the repo, install all dependencies with 'npm i'
